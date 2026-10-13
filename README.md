@@ -1,8 +1,8 @@
-\# Hotel Booking Data Analysis
+# Hotel Booking Data Analysis
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,89 +10,89 @@ This project explores hotel booking data to understand booking patterns, custome
 
 
 
-\## Project Files
+## Project Files
 
 
 
-\- `Data Analysis (Hotel Booking).ipynb` — Jupyter Notebook containing the data analysis.
+- `Data Analysis (Hotel Booking).ipynb` — Jupyter Notebook containing the data analysis.
 
-\- `hotel\_bookings 2.csv` — Dataset used for the analysis.
+- `hotel\_bookings 2.csv` — Dataset used for the analysis.
 
-\- `Report.pdf` — Project report.
-
-
-
-\## Tools and Technologies
+- `Report.pdf` — Project report.
 
 
 
-\- Python
-
-\- Jupyter Notebook
-
-\- Pandas
-
-\- Data analysis and visualization
+## Tools and Technologies
 
 
 
-\## Getting Started
+- Python
+
+- Jupyter Notebook
+
+- Pandas
+
+- Data analysis and visualization
 
 
 
-1\. Clone the repository:
+## Getting Started
 
 
 
-&#x20;  ```bash
-
-&#x20;  git clone https://github.com/devangna01/Hotel-Booking-Data-Analysis.git
-
-&#x20;  ```
+1. Clone the repository:
 
 
 
-2\. Navigate to the project directory:
+```bash
+
+git clone https://github.com/devangna01/Hotel-Booking-Data-Analysis.git
+
+ ```
 
 
 
-&#x20;  ```bash
-
-&#x20;  cd Hotel-Booking-Data-Analysis
-
-&#x20;  ```
+2. Navigate to the project directory:
 
 
 
-3\. Install the required libraries:
+```bash
+
+cd Hotel-Booking-Data-Analysis
+
+```
 
 
 
-&#x20;  ```bash
-
-&#x20;  pip install pandas jupyter matplotlib seaborn
-
-&#x20;  ```
+3. Install the required libraries:
 
 
 
-4\. Launch Jupyter Notebook:
+```bash
+
+pip install pandas jupyter matplotlib seaborn
+
+```
 
 
 
-&#x20;  ```bash
-
-&#x20;  jupyter notebook
-
-&#x20;  ```
+4. Launch Jupyter Notebook:
 
 
 
-5\. Open `Data Analysis (Hotel Booking).ipynb` and run the notebook cells.
+```bash
+
+jupyter notebook
+
+```
 
 
 
-\## Dataset
+5. Open `Data Analysis (Hotel Booking).ipynb` and run the notebook cells.
+
+
+
+## Dataset
 
 
 
@@ -100,7 +100,7 @@ The project uses a CSV dataset containing hotel booking records.
 
 
 
-\## Report
+## Report
 
 
 
